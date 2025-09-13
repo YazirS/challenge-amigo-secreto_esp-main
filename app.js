@@ -26,7 +26,6 @@ function mostrarAmigos() {
     }
 }
 
-
 function sortearAmigo() {
   const resultado = document.getElementById("resultado");
 
