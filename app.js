@@ -26,6 +26,8 @@ function mostrarAmigos() {
     }
 }
 
+prueba = 1;
+
 function sortearAmigo() {
   const resultado = document.getElementById("resultado");
 
